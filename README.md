@@ -14,7 +14,7 @@ This project analyzes Airbnb hotel prices in Seattle, focusing on bedroom count,
 ## 🚀 How to View
 1. Download `Airbnb_Hotel_Price.twbx`
 2. Open with **Tableau Public (free)** or **Tableau Desktop**
-3. Or view interactively online: [Tableau Public Link]([https://public.tableau.com/...](https://public.tableau.com/views/AirBnBFullProject_17691911227520/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+3. Or view interactively online: [Tableau Public Link](https://public.tableau.com/views/AirBnBFullProject_17691911227520/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 🎯 Insights
 - Pricing increases consistently with bedroom count.
